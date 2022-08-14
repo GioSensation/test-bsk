@@ -15,8 +15,8 @@
         "repositoryURL": "https://github.com/duckduckgo/duckduckgo-autofill.git",
         "state": {
           "branch": null,
-          "revision": "sha12343141234124123112",
-          "version": "5.0.1"
+          "revision": "819309cd39d9df0ab0df6262ea6cebf0595b1919",
+          "version": "0.2.3"
         }
       },
       {
